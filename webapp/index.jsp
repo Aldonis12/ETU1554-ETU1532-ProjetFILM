@@ -26,7 +26,7 @@
                 </a>
             </li>
             <li>
-                <a href="<%= request.getContextPath() %>/indisponibilite">
+                <a href="<%= request.getContextPath() %>/DetailsIndisponibilite">
                     <i class="ti-line-dashed"></i>
                     <p>Indisponiblité</p>
                 </a>
